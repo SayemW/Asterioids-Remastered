@@ -1,4 +1,4 @@
-# Asterioids-Remastered
+# Game: Asterioids-Remastered
 Remake of Asteroids using Unity and C#
 ## Control Scheme:
 Up arrow key for thrust.\
