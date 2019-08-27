@@ -1,5 +1,5 @@
 # Game: Asterioids-Remastered
-Remake of Asteroids using Unity and C#
+Remake of the classic Asteroids game using Unity and C#.
 ## Control Scheme:
 Up arrow key for thrust.\
 Right and left arrow keys to rotate ship.\
